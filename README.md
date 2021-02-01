@@ -11,5 +11,5 @@ The algorithm search, recursively, the best move that leads the Max player to wi
 
 ## Example game
 
-![One possibility of the game](Assests/minimax.png)
+![One possibility of the game](Assests/minimax.PNG)
 
