@@ -1,5 +1,6 @@
 # AI-Tic-Tac-Toe-with-minimax-policy
-An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game
+An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses) game.
+
 This is the classic tic-tac-toe game with a minimal AI using Minimax Algorithm
 
 # What is Minimax?
